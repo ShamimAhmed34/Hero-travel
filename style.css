@@ -1,0 +1,32 @@
+
+
+span {
+    color: #FF5400;
+}
+
+nav {
+    width: 80%;
+    max-width: 1170px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header-img {
+    display: flex;
+    gap: 20px;
+}
+
+
+.header-img img {
+    width: 48px;
+    height: 56px;
+    
+}
+
+.header-item-list ul{
+    display: flex;
+    gap: 20px;
+    list-style: none;
+}
